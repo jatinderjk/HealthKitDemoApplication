@@ -1,0 +1,11 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "3c465de17e64e1415c97aa477d089e5b"
+build_time: [528389054, 480519000]
+inputs:
+  "/Users/amandeepsingh/Downloads/HealthKitDemo/HealthKitTest/AppDelegate.swift": [528307342, 0]
+  "/Users/amandeepsingh/Downloads/HealthKitDemo/HealthKitTest/Controllers/ProfileViewController.swift": [528307342, 0]
+  "/Users/amandeepsingh/Downloads/HealthKitDemo/HealthKitTest/HelperClasses/HealthKit.swift": [528307342, 0]
+  "/Users/amandeepsingh/Downloads/HealthKitDemo/HealthKitTest/Controllers/WorkoutsTableViewController.swift": [528307342, 0]
+  "/Users/amandeepsingh/Downloads/HealthKitDemo/HealthKitTest/Controllers/AddWorkoutTableViewController.swift": [528307342, 0]
+  "/Users/amandeepsingh/Downloads/HealthKitDemo/HealthKitTest/CustomCells/DatePickerCell.swift": [528307342, 0]
+  "/Users/amandeepsingh/Downloads/HealthKitDemo/HealthKitTest/CustomCells/NumberCell.swift": [528307342, 0]

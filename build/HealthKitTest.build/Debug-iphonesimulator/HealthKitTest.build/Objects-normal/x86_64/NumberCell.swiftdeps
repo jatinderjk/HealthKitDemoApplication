@@ -1,0 +1,218 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NumberCell"
+provides-nominal:
+- "C13HealthKitTest10NumberCell"
+provides-member:
+- ["C13HealthKitTest10NumberCell", ""]
+provides-dynamic-lookup:
+- "numberTextField"
+- "doubleValue"
+depends-top-level:
+- "Double"
+- "UITableViewCell"
+- "NumberCell"
+- "UITextField"
+- !private "NSString"
+depends-member:
+- !private ["Ps9AnyObject", "NSString"]
+- ["Ps9AnyObject", "doubleValue"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "numberTextField"]
+- !private ["Ps9AnyObject", "text"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps11CVarArgType", "NSString"]
+- ["Ps11CVarArgType", "doubleValue"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "numberTextField"]
+- !private ["Ps11CVarArgType", "text"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps28CustomDebugStringConvertible", "NSString"]
+- ["Ps28CustomDebugStringConvertible", "doubleValue"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "numberTextField"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "NSString"]
+- ["Ps23CustomStringConvertible", "doubleValue"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "numberTextField"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "NSString"]
+- ["Ps9Equatable", "doubleValue"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "numberTextField"]
+- !private ["Ps9Equatable", "text"]
+- ["Ps9Equatable", ""]
+- !private ["Ps41ExtendedGraphemeClusterLiteralConvertible", "doubleValue"]
+- !private ["Ps41ExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Ps8Hashable", "NSString"]
+- ["Ps8Hashable", "doubleValue"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "numberTextField"]
+- !private ["Ps8Hashable", "text"]
+- ["Ps8Hashable", ""]
+- !private ["PSo8NSCoding", "NSString"]
+- ["PSo8NSCoding", "doubleValue"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "numberTextField"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "doubleValue"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "doubleValue"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "Double"]
+- !private ["CSo8NSObject", "NSString"]
+- ["CSo8NSObject", "UITextField"]
+- ["CSo8NSObject", "doubleValue"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "numberTextField"]
+- !private ["CSo8NSObject", "text"]
+- !private ["PSo16NSObjectProtocol", "NSString"]
+- ["PSo16NSObjectProtocol", "doubleValue"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "numberTextField"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "doubleValue"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "doubleValue"]
+- !private ["CSo8NSString", "init"]
+- ["C13HealthKitTest10NumberCell", "Double"]
+- !private ["C13HealthKitTest10NumberCell", "NSString"]
+- ["C13HealthKitTest10NumberCell", "UITextField"]
+- ["C13HealthKitTest10NumberCell", "deinit"]
+- ["C13HealthKitTest10NumberCell", "doubleValue"]
+- ["C13HealthKitTest10NumberCell", "init"]
+- ["C13HealthKitTest10NumberCell", "numberTextField"]
+- !private ["Ps24StringLiteralConvertible", "doubleValue"]
+- !private ["Ps24StringLiteralConvertible", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "NSString"]
+- ["PSo29UIAccessibilityIdentification", "doubleValue"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "numberTextField"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "NSString"]
+- ["PSo12UIAppearance", "doubleValue"]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "numberTextField"]
+- !private ["PSo12UIAppearance", "text"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "NSString"]
+- ["PSo21UIAppearanceContainer", "doubleValue"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "numberTextField"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo9UIControl", "text"]
+- !private ["PSo17UICoordinateSpace", "NSString"]
+- ["PSo17UICoordinateSpace", "doubleValue"]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "numberTextField"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "NSString"]
+- ["PSo13UIDynamicItem", "doubleValue"]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "numberTextField"]
+- !private ["PSo13UIDynamicItem", "text"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "NSString"]
+- ["PSo18UIFocusEnvironment", "doubleValue"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "numberTextField"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo27UIGestureRecognizerDelegate", "NSString"]
+- ["PSo27UIGestureRecognizerDelegate", "doubleValue"]
+- ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "numberTextField"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- !private ["PSo10UIKeyInput", "text"]
+- ["CSo11UIResponder", "Double"]
+- !private ["CSo11UIResponder", "NSString"]
+- ["CSo11UIResponder", "UITextField"]
+- ["CSo11UIResponder", "doubleValue"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "numberTextField"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo15UITableViewCell", "Double"]
+- !private ["CSo15UITableViewCell", "NSString"]
+- ["CSo15UITableViewCell", "UITextField"]
+- ["CSo15UITableViewCell", "doubleValue"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "numberTextField"]
+- ["CSo15UITableViewCell", ""]
+- !private ["CSo11UITextField", "text"]
+- !private ["PSo11UITextInput", "text"]
+- !private ["PSo17UITextInputTraits", "text"]
+- !private ["PSo18UITraitEnvironment", "NSString"]
+- ["PSo18UITraitEnvironment", "doubleValue"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "numberTextField"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "Double"]
+- !private ["CSo6UIView", "NSString"]
+- ["CSo6UIView", "UITextField"]
+- ["CSo6UIView", "doubleValue"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "numberTextField"]
+- !private ["CSo6UIView", "text"]
+- !private ["Ps31UnicodeScalarLiteralConvertible", "doubleValue"]
+- !private ["Ps31UnicodeScalarLiteralConvertible", "init"]
+- !private ["Ps12_Reflectable", "NSString"]
+- ["Ps12_Reflectable", "doubleValue"]
+- ["Ps12_Reflectable", "init"]
+- ["Ps12_Reflectable", "numberTextField"]
+- !private ["Ps12_Reflectable", "text"]
+- ["Ps12_Reflectable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps41ExtendedGraphemeClusterLiteralConvertible"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "C13HealthKitTest10NumberCell"
+- !private "Ps24StringLiteralConvertible"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo9UIControl"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo27UIGestureRecognizerDelegate"
+- !private "PSo10UIKeyInput"
+- "CSo11UIResponder"
+- "CSo15UITableViewCell"
+- !private "CSo11UITextField"
+- !private "PSo11UITextInput"
+- !private "PSo17UITextInputTraits"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- !private "Ps31UnicodeScalarLiteralConvertible"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode 3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode 3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode 3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode 3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode 3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode 3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode 3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode 3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "700f6b9919243ae2b3e90aefbcd60f19"
